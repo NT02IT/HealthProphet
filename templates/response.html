@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="..\static\style.css"> 
+    <title>HealthProphet</title>
+    <link rel="icon" type="image/x-icon" href="..\static\Assets\Logo\color_icon.svg">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+</head>
+<body>
+    <header>
+        <img src="..\static\Assets\Logo\white_full.svg" alt="HealthProphet" class="white-logo" id="header-logo-brand">
+        <script>
+            const headerLogo = document.getElementById('header-logo-brand');
+            // Thêm sự kiện click vào nút primary
+            headerLogo.addEventListener('click', function() {
+                // Chuyển slug bằng cách thay đổi giá trị của window.location.pathname
+                window.location.pathname = '/home';
+            });
+        </script>
+        <div class="background">
+            <img src="..\static\Assets\IMG\Response-bg.png" alt="" class="img">
+        </div>
+    </header>
+    <section>
+        <div class="content-wrapped">
+            <div class="intro-title">Giới thiệu về HealthProphet</div>
+            <div class="body-text">HealthProphet là một chatbot tiên tiến được thiết kế với mục đích giúp đỡ những người ngại đi khám bác sĩ trong việc dự đoán và có thể chẩn đoán những bệnh tình dục. Sử dụng công nghệ trí tuệ nhân tạo, chatbot này có thể đưa ra các dự đoán ban đầu về các triệu chứng mà người dùng đang gặp phải và truyền đạt những thông tin quan trọng liên quan đến sự lây lan của các bệnh tình dục.</div>
+            <div class="body-text">Người dùng có thể sử dụng chatbot HealthProphet để nhận được sự giúp đỡ và hỗ trợ trong việc tự đánh giá sức khỏe của mình. Nếu cần, người dùng có thể truy vấn thông tin chi tiết hơn về bệnh tình dục và cách phòng ngừa, từ đó có thể đưa ra những quyết định thông minh để bảo vệ sức khỏe của mình.</div>
+            <div class="contact-block">
+                <div class="message">Kết nối với chúng tôi</div>
+                <div class="social-icon">
+                    <a href="#" class="icon" ><img src="..\static\Assets\Icon\youtube.svg"></img></a>
+                    <a href="#" class="icon" ><img src="..\static\Assets\Icon\twitter-fill.svg"></img></a>      
+                </div>
+            </div>
+            <div class="copyright ">© Copyright by Python Team 2</div>
+        </div>
+        <div class="message-wrapped" id="chat-container">
+            <div class="empty-state" id="emptyState">
+                <img src="..\static\Assets\IMG\EmptyState-Illustration.png" alt="" width="260px">
+                <div class="notification">
+                    <div class="title">Hộp tin nhắn rỗng</div>
+                    <div class="message">Hãy bắt đầu tra cứu thông tin<br>và chẩn đoán bệnh cùng HealthProphet</div>    
+                </div>
+            </div>
+            <div class="bottom" id="bottom-btn">
+                <button class="primary" id="btn-primary">
+                    <span class="title">Bắt đầu thôi</span>
+                    <img class="icon" src="..\static\Assets\Icon\arrow-right.svg"></img>
+                </button>
+            </div>           
+            <!-- Chat ở đây sau đó dùng script bên dưới bắt sự kiện -->
+            <div class="chat-area" id="chatbox">
+                <div class="app-respone">
+                    <div class="avt-container">
+                        <div></div>
+                        <img src="..\\static\\Assets\\Logo\\color_icon.svg" alt="">
+                    </div>
+                    <div class="chat-bubbles">
+                        <div class="message-first"></div>
+                        <div class="message">Chào bạn.</div>
+                        <div class="message">Tôi là HealthProphet - một chatbot AI với khả năng trả lời câu hỏi về các bệnh tình dục phổ biến.</div>
+                        <div class="message">Đừng ngần ngại khi đặt câu hỏi cho tôi nhé!</div>
+                    </div>
+                </div>
+                <!-- <div class="user-chat"><div></div><div class="chat-bubbles"><div class="message">Chẩn đoán</div></div></div> -->
+            </div>
+            <div id="userInput">
+                <input id="textInput" type="text" class="message" name="msg" placeholder="Aa">
+                <!-- <input id="buttonInput" type="submit" value="Send"> -->
+                <button class="secondary" id="buttonInput">
+                    <img class="icon" src="..\\static\\Assets\\Icon\\send.svg"></img>
+                </button>
+            </div>
+            <script>
+                function getBotResponse() {
+                  // Hiện tin nhắn crủa user lên khung chat
+                  var rawText = $("#textInput").val();
+                  var userHtml = '<div class="user-chat"><div></div><div class="chat-bubbles"><div class="message">' + rawText + '</div></div></div>';
+                  $("#textInput").val("");
+                  $("#chatbox").append(userHtml);
+                  document.getElementById('userInput').scrollIntoView({block: 'start', behavior: 'smooth'});
+        
+                  // Hiện tin nhắn của chatbot
+                  $.get("/get", { msg: rawText }).done(function(data) {
+                    var botHtml = '<div class="app-respone"><div class="avt-container"><div></div><img src="..\\static\\Assets\\Logo\\color_icon.svg" alt=""></div><div class="chat-bubbles"><div class="message">' + data + '</div></div>';
+                    $("#chatbox").append(botHtml);
+                    document.getElementById('userInput').scrollIntoView({block: 'start', behavior: 'smooth'});
+                  });
+                }
+            
+                // Bắt sự kiện enter và bấm nút
+                $("#textInput").keypress(function(e) {
+                    if(e.which == 13) {
+                        getBotResponse();
+                    }
+                });
+                $("#buttonInput").click(function() {
+                  getBotResponse();
+                })  
+
+                // const focusEndofChat = document.getElementById('chatbox');
+                // const lastMessage = messageList.lastElementChild;
+                // lastMessage.scrollIntoView();
+                // messageList.addEventListener('DOMNodeInserted', function () {
+                //         const lastMessage = messageList.lastElementChild;
+                //         lastMessage.scrollIntoView();
+                //     });
+            </script>
+        </div>
+    </section>
+</body>
+</html>
+
+<script>
+    const btnPrimary = document.getElementById('btn-primary');
+    const chatBox = document.getElementById('chatbox');
+    const userInput = document.getElementById('userInput');
+    const bottomBtn = document.getElementById('bottom-btn');
+    const emptyState = document.getElementById('emptyState');
+
+    btnPrimary.addEventListener('click', function () {
+            chatBox.style.display = 'block';
+            userInput.style.display = 'flex';            
+            bottomBtn.style.display = 'none';                      
+            emptyState.style.display = 'none';                      
+        });
+</script>
+
+

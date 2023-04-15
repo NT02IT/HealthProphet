@@ -1,0 +1,388 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;600;700&family=Roboto:wght@400;500&display=swap');
+*{ 
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 13px;
+}
+
+:root{
+    --black: #2F2F2F;
+    --white: #FFFFFF;
+    --black-lighter: #686868;
+    --blue-light: #51A3EE;
+    --blue-dark: #0E4F8B;
+}
+
+/* Sử dụng thuộc tính scrollbar-gutter */
+::-webkit-scrollbar {
+    margin: 4px;
+    width: 8px; /* chiều rộng của thanh cuộn */
+    height: 5%; /* chiều cao của thanh cuộn */
+    scrollbar-gutter: 8px; 
+}
+
+/* Thiết lập màu sắc cho thanh cuộn */
+::-webkit-scrollbar-thumb { 
+    background:rgba(96, 96, 96, 0.303); /* màu sắc của thanh cuộn */
+    border-radius:10px; /* đường viền */
+}
+
+::-webkit-scrollbar-thumb:hover{
+    background-color: #51a2ee7d;
+}
+
+::-webkit-scrollbar-track {
+    background: rgba(255, 255, 255, 0); /* màu nền của thanh cuộn */
+}
+
+.intro-header{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-size: 6rem;
+    font-weight: 700;
+    line-height: 7rem;
+    letter-spacing: 0em;
+}
+
+.intro-subheader{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-size: 2rem;
+    font-weight: 400;
+    line-height: 3rem;
+    letter-spacing: 0em;
+}
+
+.intro-title{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-size: 3.6rem;
+    font-weight: 600;
+    line-height: 4rem;
+    letter-spacing: 0em;
+}
+
+.header{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 3rem;
+    letter-spacing: 0em;
+}
+
+.subheader{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 400;
+    line-height: 3rem;
+    letter-spacing: 0px;
+}
+
+.title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 3rem;
+    letter-spacing: 0px;
+}
+
+.body-text{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-size: 1.1rem;
+    font-weight: 400;
+    line-height: 1.6rem;
+    letter-spacing: 0em;
+}
+
+.message{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.1rem;
+    font-weight: 400;
+    line-height: 1.3rem;
+    letter-spacing: 0px;
+}
+
+.copyright{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-size: 0.8rem;
+    font-weight: 400;
+    line-height: 1.25rem;
+    letter-spacing: 0em;
+}
+
+/*-------------------------------------------------*/
+
+header{
+    position: relative;
+    padding: 20px 15% 20px 15%;
+}
+
+header .logo{
+    height: 2.6rem;
+    width: auto;
+    cursor: pointer;
+}
+
+header .white-logo{
+    position: fixed;
+    z-index: 9999;
+    height: 2.6rem;
+    width: auto;
+    cursor: pointer;    
+}
+
+.background .img{
+    position: fixed;
+    top: -12px;
+    left: 0;
+    width: 1560px;
+    text-align: center;
+    object-fit: fill;
+    z-index: -1;
+}
+
+section{
+    display: flex;
+    position: relative;
+    padding: 60px 15% 60px 15%;
+}
+
+section .content-wrapped{
+    display: inline;
+    width: 50%;
+    padding-right: 2rem;
+}
+
+.content-wrapped .intro-title{
+    padding: 12.5rem 0 1.5rem 0;
+    color: var(--blue-dark);
+    /* max-width: 45%; */
+}
+
+.content-wrapped .body-text{
+    padding: 0.6rem 0;
+    /* max-width: 45%; */
+    color: var(--black-lighter);
+}
+
+.content-wrapped .copyright{
+    color: var(--black-lighter);
+    opacity: 50%;
+}
+
+.contact-block{
+    padding: 1rem 0;
+    color: var(--black);
+}
+
+.contact-block .social-icon .icon{
+    padding: 0.8rem 1.3rem;
+    padding-left: 0;
+}
+
+.contact-block .social-icon .icon:hover{
+    opacity: 75%;
+    transition: 0.25s linear;
+}
+
+.header-block{
+    max-width: 38rem;
+}
+
+.header-block .intro-header{
+    color: var(--blue-light);
+    margin-bottom: 0.75rem;
+}
+
+.header-block .intro-subheader{
+    color: var(--black-lighter);
+    margin-top: 0.75rem;
+}
+
+.message-wrapped{
+    display: flex;
+    flex-direction: column;
+    margin: -24px 0rem 0 4rem;
+    /* padding: 0 2rem 2rem 2rem; */
+    width: 45%;
+    height: 50rem;
+    border-radius: 1rem;
+    background-color: var(--white);
+    box-shadow: 0px 4px 52px 0px #0000001F;
+}
+
+.empty-state{
+    flex-grow: 1;
+    text-align: center;
+    padding-top: 8rem;
+}
+
+.empty-state .notification{
+    padding: 2rem;
+}
+
+.empty-state .notification .title{
+    color: var(--black);
+}
+
+.empty-state .notification .message{
+    color: var(--black-lighter);
+}
+
+.message-wrapped button.primary{
+    width: 100%;
+}
+
+.message-wrapped .bottom{
+    padding: 3rem 2rem
+}
+
+.message-wrapped .chat-area{
+    flex: 1;
+    overflow: auto;
+    padding: 0 2rem 1rem 2rem;
+}
+
+.chat-area .app-respone{
+    display: flex;
+    flex-direction: row;
+    padding: 1rem 0;
+}
+
+.avt-container{
+    display: flex;
+    flex-direction: column;
+    margin-right: 1rem;
+}
+
+.avt-container>div{
+    flex: 1;
+}
+
+.app-respone .chat-bubbles .message-first{
+    display: block;
+    height: 1rem;
+    background-color: #ffffff00;
+}
+
+.app-respone .message{
+    display: inline-block;
+    max-width: 20rem;
+    background-color: #f2f2f2;
+    color: var(--black);
+    padding: 0.8rem 1rem;
+    margin: 2px 0;
+    border-radius: 0.5rem 1.5rem 1.5rem 0.5rem;
+}
+
+.user-chat{
+    display: flex;
+}
+
+.user-chat div:first-child{
+    flex: 1;
+}
+
+.user-chat .message{
+    display: inline-block;
+    max-width: 20rem;
+    background-color: var(--blue-dark);
+    color: var(--white);
+    padding: 0.8rem 1rem;
+    margin: 2px 0;
+    border-radius: 1.5rem 0.5rem 0.5rem 1.5rem;
+}
+
+
+
+#userInput{
+    display: flex;
+    flex-direction: row;
+    padding: 0 2rem 2rem 2rem;
+    height: 3.5rem;
+    /* width: 100%; */
+}
+
+input#textInput{
+    flex: 1;
+    /* height: 100%; */
+    padding-left: 1.75rem;
+    border: 1px solid var(--blue-light);
+    border-right: 0;
+    border-radius: 0.75rem 0 0 0.75rem;
+    background-color: var(--white);
+    cursor: text;
+}
+
+input#textInput:focus-visible{
+    border: 1px solid var(--white);
+}
+
+button.secondary#buttonInput{
+    height: 100%;
+    padding-right: 1.75rem;
+    border: 1px solid var(--blue-light);
+    border-left: 0;
+    border-radius: 0 0.75rem 0.75rem 0;
+    background-color: var(--white);
+    cursor: pointer;
+}
+
+button.secondary#buttonInput>img:hover{
+    opacity: 50%;
+    scale: 115%;
+}
+
+.cta-block{
+    margin-top: 9rem;
+}
+
+button.primary{
+    /* display: inline-block; */
+    width: 22rem;
+    padding: 0.75rem 2rem;
+    background-color: var(--blue-dark);
+    border-radius: 0.75rem;
+    text-align: center;
+    cursor: pointer;
+    box-shadow: 0px 4px 24px 0px #51A3EE40;
+    color: var(--white);
+    transition: 0.5s ease;
+}
+
+button.primary>.title{
+    /* display: inline-block; */
+    margin-right: 1rem;
+    vertical-align: middle;
+    transition: 0.25s linear;
+}
+
+button.primary>.icon{
+    /* display: inline-block; */
+    vertical-align: middle;
+}
+
+button.primary:hover{
+    background-color: var(--blue-light);
+    transition: 0.5s ease;
+    letter-spacing: 1.5rem;
+}
+/* 
+button.primary>.title:hover{
+    margin-right: 2.5rem;
+    transition: 0.25s linear;
+} */
+
+.cta-block .noti{
+    max-width: 36rem;
+    color: var(--black-lighter);
+    margin-top: 1.25rem;
+    opacity: 75%;
+}
+
+
+#chatbox{
+    display: none;
+}
+
+#userInput{
+    display: none;
+}
