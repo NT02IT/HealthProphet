@@ -16,10 +16,12 @@ while True:
         print("-------------------------------------------")
         conv.write("\n")
         continue
-    if question == "end": break
+    if question == "end":
+        conv.write("\n")
+        break
     conv.write("\n" + question)
     answer = input(">>> ")
-    conv.write("\n" + answer + "\n")
+    conv.write("\n" + answer)
 conv.close()
 
 #Xem lại kết quả trong file
