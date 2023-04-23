@@ -14,7 +14,7 @@
         <img src="..\static\Assets\Logo\white_full.svg" alt="HealthProphet" class="white-logo" id="header-logo-brand">
         <script>
             const headerLogo = document.getElementById('header-logo-brand');
-            // Thêm sự kiện click vào nút primary
+            // Thêm sự kiện click vào nút header-logo-brand
             headerLogo.addEventListener('click', function() {
                 // Chuyển slug bằng cách thay đổi giá trị của window.location.pathname
                 window.location.pathname = '/home';
@@ -66,6 +66,19 @@
                         <div class="message">Đừng ngần ngại khi đặt câu hỏi cho tôi nhé!</div>
                     </div>
                 </div>
+                <div class="app-respone">
+                    <div class="avt-container">
+                        <div></div>
+                        <img src="..\\static\\Assets\\Logo\\color_icon.svg" alt="">
+                    </div>
+                    <div class="chat-bubbles">
+                        <div class="hint">Nếu bạn gặp khó khăn trong việc đặt câu hỏi<br>Bạn cũng có thể chọn một câu hỏi có sẵn dưới đây để bắt đầu nhé! </div>
+                        <div class="message">Hãy chọn vào câu hỏi bên dưới tôi sẽ trả lời giúp bạn những thắc mắc. </div>
+                        <button class="message" id="question1">HealthProphet có thể trả lời được được những thông tin nào?</button>
+                        <button class="message" id="question2">Tôi muốn hỏi về các triệu chứng của bệnh lậu.</button>
+                        <button class="message" id="question3">Cho tôi hỏi bệnh hạ cam mềm (bệnh sole) là bệnh gì?</button>
+                    </div>
+                </div>
                 <!-- <div class="user-chat"><div></div><div class="chat-bubbles"><div class="message">Chẩn đoán</div></div></div> -->
             </div>
             <div id="userInput">
@@ -76,31 +89,48 @@
                 </button>
             </div>
             <script>
-                function getBotResponse() {
-                  // Hiện tin nhắn crủa user lên khung chat
-                  var rawText = $("#textInput").val();
-                  var userHtml = '<div class="user-chat"><div></div><div class="chat-bubbles"><div class="message">' + rawText + '</div></div></div>';
-                  $("#textInput").val("");
-                  $("#chatbox").append(userHtml);
-                  document.getElementById('userInput').scrollIntoView({block: 'start', behavior: 'smooth'});
-        
-                  // Hiện tin nhắn của chatbot
-                  $.get("/get", { msg: rawText }).done(function(data) {
-                    var botHtml = '<div class="app-respone"><div class="avt-container"><div></div><img src="..\\static\\Assets\\Logo\\color_icon.svg" alt=""></div><div class="chat-bubbles"><div class="message">' + data + '</div></div>';
-                    $("#chatbox").append(botHtml);
-                    document.getElementById('userInput').scrollIntoView({block: 'start', behavior: 'smooth'});
-                  });
+                
+                function getBotResponse(rawText) {
+                    // rawText = $("#textInput").val();
+                    var userHtml = '<div class="user-chat"><div></div><div class="chat-bubbles"><div class="message">' + rawText + '</div></div></div>';
+                    $("#textInput").val("");
+                    $("#chatbox").append(userHtml);
+                    document.getElementById('userInput').scrollIntoView({ block: 'start', behavior: 'smooth' });
+
+                    // Hiện tin nhắn của chatbot
+                    $.get("/get", { msg: rawText }).done(function (data) {
+                        var botHtml = '<div class="app-respone"><div class="avt-container"><div></div><img src="..\\static\\Assets\\Logo\\color_icon.svg" alt=""></div><div class="chat-bubbles"><div class="message">' + data + '</div></div>';
+                        $("#chatbox").append(botHtml);
+                        document.getElementById('userInput').scrollIntoView({ block: 'start', behavior: 'smooth' });
+                    });
                 }
-            
+                
                 // Bắt sự kiện enter và bấm nút
                 $("#textInput").keypress(function(e) {
                     if(e.which == 13) {
-                        getBotResponse();
+                        //getBotResponse();
+                        getBotResponse(textInput.value);
                     }
                 });
                 $("#buttonInput").click(function() {
-                  getBotResponse();
-                })  
+                  //getBotResponse();
+                  getBotResponse(textInput.value);
+                }) 
+                // $("button.message").click(function() {
+                //   getBotResponse();
+                // }) 
+                question1.addEventListener('click', function () {
+                    getBotResponse("HealthProphet có thể trả lời được được những thông tin nào?");
+                });  
+                question2.addEventListener('click', function () {
+                    getBotResponse("Tôi muốn hỏi về các triệu chứng bệnh lậu");
+                });  
+                question3.addEventListener('click', function () {
+                    getBotResponse("Cho tôi hỏi bệnh hạ cam mềm (bệnh sole) là bệnh gì?");
+                }); 
+                // userInput.addEventListener("input", function() {
+                //     getBotResponse(userInput.value);
+                // }); 
 
                 // const focusEndofChat = document.getElementById('chatbox');
                 // const lastMessage = messageList.lastElementChild;
@@ -116,6 +146,11 @@
 </html>
 
 <script>
+    var rawText;
+    const question1 = document.getElementById("question1");
+    const question2 = document.getElementById("question2");
+    const question3 = document.getElementById("question3");
+    const textInput = document.getElementById("textInput");                
     const btnPrimary = document.getElementById('btn-primary');
     const chatBox = document.getElementById('chatbox');
     const userInput = document.getElementById('userInput');

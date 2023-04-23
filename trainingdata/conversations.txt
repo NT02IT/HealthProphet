@@ -1,3 +1,14 @@
+HealthProphet có thể trả lời được được những thông tin nào?
+HealthProphet là một chatbot AI về các bệnh lây nhiễm qua đường tình dục, tôi có thể giúp bạn tra cứu các thông tin về bệnh như nguyên nhân gây bệnh, triệu chứng, phương pháp phòng tránh và điều trị. <br> Đừng ngần ngại đặt câu hỏi cho tôi nhé, tôi sẽ giúp bạn giải đáp các thắc mắc.
+Tôi muốn hỏi các triệu chứng về bệnh lậu.
+Bệnh lậu thường có các triệu chứng như đau khi đi tiểu, xuất hiện những vết thương ở vùng sinh dục, tiết dịch dày và màu trắng hoặc vàng.
+Cho tôi hỏi bệnh cam mềm (bệnh sole) là bệnh gì?
+Bệnh hạ cam mềm (hay còn gọi là bệnh sole) là một bệnh nhiễm trùng do vi khuẩn Neisseria gonorrhoeae gây ra. Bệnh này có thể ảnh hưởng đến khu vực sinh dục, họng, mắt và hậu môn.
+Triệu chứng bệnh hạ cam mềm là gì?
+Ở nam giới sẽ có các triệu chứng như: Đau khi đi tiểu, tiết chất nhờn trắng từ đầu dương vật, viêm cầu toàn khối, sưng tấy quanh dương vật, đau tinh hoàn và sốt. <br>Còn ở nữ giới: Đau khi đi tiểu, tiết dịch âm đạo, chảy máu nữa chu kỳ kinh nguyệt, đau bụng thường xuyên và viêm bàng quang. <br>Khu vực miệng: Đau, sưng và phát ban ở họng. <br>Mắt: Sưng, đỏ và đau ở xung quanh mắt. <br>Hậu môn: Đau vàch trần hậu môn, khó chịu, áp lực hậu môn và chảy dịch từ hậu môn.
+Nguyên nhân gây ra bệnh hạ cam mềm?
+Bệnh hạ cam mềm do vi khuẩn Neisseria gonorrhoeae gây ra. Bệnh này chủ yếu lây qua đường tình dục, thông qua quan hệ tình dục không an toàn với người đã nhiễm bệnh. Ngoài ra, bệnh cũng có thể lây qua thai kỳ từ mẹ sang con khi sinh.
+
 Bệnh sùi mào gà là gì?
 Sùi mào gà là một trong những căn bệnh xã hội có mức độ lây nhiễm rất cao trong xã hội. Không những bệnh lây truyền qua đường tình dục mà còn có thể bị lây lan ở nhiều con đường khác. Đa phần bệnh nhân mắc bệnh sùi mào gà đều khó nhận biết ở giai đoạn đầu vì thời gian ủ bệnh là khá lâu, bất kì ai cũng có thể mắc phải sùi mào gà.
 Bệnh sùi mào gà do virus nào gây ra
@@ -191,3 +202,107 @@ Bệnh sùi mào gà có nguy hiểm không?
 Bệnh sùi mào gà có thể là một căn bệnh nghiêm trọng và gây nguy hiểm cho sức khỏe nếu không chữ trị kịp thời. Bệnh sùi mào gà có thể gây ra các biến chứng nghiêm trọng bao gồm: Nhiễm trùng và viêm nhiễm tại vùng sinh dục gây đau sưng và khó chịu; Tăng nguy cơ mắc bệnh ung thư cổ tử cung, dương vật, hậu môn, âm đạo và khoang miệng; Gây ra các vấn đề tình dục như vô sinh ở nam giới, suy giảm số lượng tinh trùng hoặc viêm tinh hoàn hoặc viêm tuyến tiền liệt ở nam giới.
 Có thể chữa trị bệnh sùi mào gà bằng cách nào?
 Bệnh có thể chữa trị bằng các cách sau: Sử dụng thuốc trị liệu, chấm thuốc trực tiếp lên sùi mào gà, dùng các chất hóa học để tiêu diệt các tế bào bị nhiễm bệnh, sử dụng công nghệ Crytherapy (Công nghệ mô đông lạnh).
+
+Xin chào, tôi có một số triệu chứng rắc rối và tôi nghĩ nó có thể liên quan đến bệnh lây lan qua đường tình dục.
+Xin chào, bạn có thể nói cho tôi biết những triệu chứng mà bạn đang gặp phải được không?
+Tôi bị ngứa hậu môn, tiểu buốt, và xuất hiện một số vệt đỏ trên da quanh vùng kín.
+Có thể rằng bạn đang bị nhiễm trùng do virus Herpes Simplex. Tôi khuyên bạn nên đi gặp bác sĩ để kiểm tra và xác định chính xác.
+Cảm ơn bạn đã giúp đỡ tôi.
+Không có chi, hy vọng bạn sớm hồi phục.
+
+Xin chào, tôi có những triệu chứng khó chịu và tôi nghĩ nó có thể liên quan đến bệnh giang mai.
+Xin chào, bạn có thể nói cho tôi biết những triệu chứng mà bạn đang gặp phải được không?
+Tôi bị đau khi tiểu, xuất hiện mụn trên cơ thể và sưng nhanh tay chân.
+Có thể bạn đang bị nhiễm bệnh giang mai. Tôi đề nghị bạn nên đi khám bác sĩ để được kiểm tra và xác định chính xác.
+Vậy bệnh giang mai là gì vậy?
+Bệnh giang mai là một bệnh lây lan qua đường tình dục do vi khuẩn Treponema pallidum gây ra. Các triệu chứng của bệnh giang mai bao gồm đau khi tiểu, sưng nhanh tay chân và xuất hiện khối u (các mụn) trên cơ thể. Nếu không được điều trị kịp thời, bệnh giang mai có thể gây ra những vấn đề nghiêm trọng cho sức khỏe.
+Cảm ơn bạn đã giúp đỡ tôi! Tôi sẽ đi khám bác sĩ sớm.
+Không có chi, hy vọng bạn sớm hồi phục và có một sức khỏe tốt.
+
+Xin chào, tôi có một số triệu chứng và tôi nghĩ nó có thể liên quan đến bệnh sùi mào gà.
+Xin chào, bạn có thể cho tôi biết những triệu chứng mà bạn đang gặp phải được không?
+Tôi thấy xuất hiện một số mụn đỏ nhỏ xung quanh vùng kín của mình, và chúng rất ngứa.
+Có thể là bạn bị nhiễm bệnh sùi mào gà. Tôi đề nghị bạn nên đi khám bác sĩ để kiểm tra và xác định chính xác.
+Tôi không biết gì về bệnh sùi mào gà này.
+Bệnh sùi mào gà là một bệnh lây lan qua đường tình dục do virus HPV (Human papillomavirus) gây ra. Triệu chứng của bệnh bao gồm xuất hiện các mụn đỏ nhỏ trên vùng kín, môi sinh dục, hoặc hậu môn. Các mụn này thường rất ngứa và có thể lan ra các vùng da khác. Nếu không được điều trị kịp thời, bệnh sùi mào gà có thể gây ra các vấn đề nghiêm trọng trong tương lai.
+Cảm ơn bạn đã giải đáp thắc mắc của tôi!
+Không có chi, hy vọng bạn sớm hồi phục và có một sức khỏe tốt. Đừng quên đến gặp bác sĩ sớm nhé!
+
+Xin chào, tôi có một số triệu chứng và tôi nghĩ nó có thể liên quan đến bệnh giang mai.
+Xin chào, xin cho tôi biết những triệu chứng mà bạn đang gặp phải?
+Tôi thấy xuất hiện vết loét trên dương vật và âm hộ của mình và thường xuyên bị đau đớn ở các khớp.
+Có thể bạn đang bị nhiễm bệnh giang mai. Tôi đề nghị bạn nên đi khám bác sĩ để được kiểm tra và xác định chính xác.
+Tôi không rõ bệnh giang mai là gì.
+Bệnh giang mai là một bệnh lây lan qua đường tình dục do vi khuẩn Treponema pallidum gây ra. Các triệu chứng của bệnh giang mai bao gồm xuất hiện các vết loét trên vùng sinh dục hoặc niêm mạc miệng, đau đớn ở các khớp cũng như các triệu chứng khác như sốt và mệt mỏi. Bệnh này có thể gây ra những vấn đề nghiêm trọng cho sức khỏe nếu không được điều trị kịp thời.
+Cảm ơn bạn đã giúp đỡ tôi!
+Không có chi, hy vọng bạn sớm hồi phục và có một sức khỏe tốt. Đừng quên đến gặp bác sĩ để được kiểm tra và điều trị sớm nhé!
+
+Tôi thấy có những vết loét trên vùng sinh dục của mình, đau đớn khi tiểu và sưng tấy ở các khớp.
+Các triệu chứng mà bạn đang gặp phải có thể liên quan đến bệnh giang mai. Tôi đề nghị bạn nên đi khám bác sĩ để được xác định chính xác.
+Bệnh giang mai là gì vậy?
+Bệnh giang mai là một bệnh lây lan qua đường tình dục do vi khuẩn Treponema pallidum gây ra. Các triệu chứng của bệnh giang mai bao gồm xuất hiện các vết loét trên vùng sinh dục hoặc niêm mạc miệng, đau đớn khi tiểu, sưng tại một số khớp và các vấn đề khác. Nếu không được điều trị kịp thời, bệnh giang mai có thể gây ra những vấn đề nghiêm trọng cho sức khỏe của bạn.
+Cảm ơn bạn đã thông tin cho tôi!
+Không có chi, hãy đi khám bác sĩ sớm nhất có thể để được chẩn đoán và điều trị kịp thời. Hy vọng bạn sớm hồi phục và có một sức khỏe tốt.
+
+Tôi có một số triệu chứng trên vùng kín của mình gồm một số mụn đỏ nhỏ và rất ngứa.
+Các triệu chứng mà bạn đang gặp phải có thể liên quan đến bệnh sùi mào gà. Tôi đề nghị bạn nên đi khám bác sĩ để được xác định chính xác.
+Tôi không biết gì về bệnh sùi mào gà này.
+Bệnh sùi mào gà là một bệnh lây lan qua đường tình dục do virus HPV gây ra. Triệu chứng của bệnh bao gồm xuất hiện các mụn đỏ nhỏ trên vùng kín, môi sinh dục, hoặc hậu môn. Các mụn này thường rất ngứa và có thể lan ra các vùng da khác. Nếu không được điều trị kịp thời, bệnh sùi mào gà có thể gây ra các vấn đề nghiêm trọng trong tương lai.
+Cảm ơn bạn đã thông tin cho tôi!
+Không có chi, hãy đi khám bác sĩ sớm nhất có thể để được chẩn đoán và điều trị kịp thời. Hy vọng bạn sớm hồi phục và có một sức khỏe tốt.
+
+Tôi thấy mình mệt mỏi, tăng cân và có những vết đỏ trên cơ thể.
+Các triệu chứng mà bạn đang gặp phải có thể liên quan đến bệnh AIDS. Tôi khuyên bạn nên đi khám bác sĩ ngay lập tức để được xét nghiệm và chẩn đoán chính xác.
+Tôi nghe nói về bệnh AIDS nhưng tôi không biết nó là gì?
+Bệnh AIDS là một căn bệnh nhiễm trùng được gây ra bởi virus HIV. Các triệu chứng của bệnh bao gồm mệt mỏi, giảm cân, có các vết đỏ trên cơ thể, các nhiễm trùng phổ biến và các vấn đề khác. Nếu không được điều trị kịp thời, bệnh AIDS có thể gây ra những vấn đề nghiêm trọng cho sức khỏe của bạn.
+Cảm ơn bạn đã giúp đỡ.
+Không có chi, vui lòng đi khám bác sĩ ngay lập tức để được xét nghiệm và chẩn đoán chính xác. Hy vọng bạn sớm tìm được giải pháp và có một sức khỏe tốt.
+
+Tôi thấy có một số dấu hiệu rõ rệt như đau đớn khi đi tiểu, rát và ngứa ở khu vực sinh dục, và có một chất bệnh nhầy màu trắng, có mùi khó chịu.
+Dựa trên các triệu chứng bạn cung cấp, tôi nghi ngờ rằng bạn có thể bị mắc bệnh lậu. Tôi khuyên bạn nên đến bác sĩ chuyên khoa để khám và điều trị ngay lập tức. Bệnh lậu là một bệnh lây truyền qua đường tình dục do vi khuẩn Treponema pallidum gây ra, và nếu không được điều trị đúng cách, nó có thể gây ra các biến chứng nghiêm trọng cho sức khỏe của bạn.
+Tôi cảm thấy lo lắng vì mình bị táo bón kéo dài và cảm thấy đau bụng.
+Các triệu chứng mà bạn đang gặp phải khá phổ biến và có thể có nhiều nguyên nhân khác nhau. Tuy nhiên, nếu bạn đã bị táo bón kéo dài và cảm thấy đau bụng, nó có thể là một biểu hiện của bệnh trĩ. Bạn nên đến bác sĩ để được tư vấn và điều trị kịp thời.
+Tôi cảm thấy mệt mỏi, buồn ngủ và mất năng lượng. Bạn có thể giúp tôi tìm ra nguyên nhân không?
+Triệu chứng mệt mỏi, buồn ngủ, mất năng lượng có thể là do nhiều nguyên nhân khác nhau, từ sức khỏe tâm thần đến bệnh lý trầm cảm hay thiếu máu. Tôi khuyên bạn nên đến bác sĩ để được khám và xác định nguyên nhân cụ thể. Bác sĩ có thể yêu cầu bạn được thăm khám xét nghiệm để chẩn đoán và đưa ra phương pháp điều trị phù hợp.
+Tôi muốn hỏi về cách phòng ngừa COVID-19
+Để phòng ngừa COVID-19, bạn nên tuân thủ các biện pháp phòng chống lây nhiễm như đeo khẩu trang, giữ khoảng cách xã hội, rửa tay thường xuyên bằng xà phòng hoặc sát khuẩn, tránh đến những nơi tập trung đông người và thông báo cho y tế nếu bạn có các triệu chứng của COVID-19. Ngoài ra, bạn nên tiêm vaccine phòng COVID-19 nếu có thể và đảm bảo được sức khỏe tốt.
+Tôi lo lắng rằng mình có thể mắc bệnh giang mai. Tôi có thể biết cách nhận biết bệnh này không?
+Để nhận biết bệnh giang mai, bạn cần phải nhìn vào các triệu chứng mà bạn gặp phải. Triệu chứng của bệnh giang mai có thể bao gồm các vết phù, sưng tuyến bạch huyết, bệnh bong da, đau đớn khi đi tiểu và lác đác sụt cân. Nếu bạn gặp bất kỳ triệu chứng này, bạn nên đi khám bác sĩ để được xác định chẩn đoán và điều trị kịp thời.
+Tôi muốn tìm hiểu về bệnh lậu. Bạn có thể cho tôi biết những triệu chứng chính của bệnh này không?
+Triệu chứng chính của bệnh lậu bao gồm các vết loét đỏ tại khu vực sinh dục, các khuyết tật hoặc bạch cầu bị tấy đỏ ở hầu nhẹ và đau khổ khi đi tiểu. Bệnh lậu do vi khuẩn treponema pallidum gây ra, nếu không được điều trị kịp thời, nó có thể gây ra các biến chứng nghiêm trọng cho sức khỏe của bạn. Nếu bạn gặp bất kỳ triệu chứng nào trên, tôi khuyên bạn nên đến bác sĩ để đưa ra chẩn đoán chính xác và điều trị kịp thời.
+Tôi muốn tìm hiểu về bệnh sùi mào gà, bạn có thể giải thích về triệu chứng và cách điều trị được không?
+Bệnh sùi mào gà là một bệnh tình dục lây truyền qua đường tình dục do virus HPV gây ra. Nó có thể không gây ra triệu chứng rõ ràng và thường được phát hiện thông qua kiểm tra smears PAP. Tuy nhiên, nếu có triệu chứng, thì chúng sẽ bao gồm các vết tổn thương hoặc phù trên bề mặt da hoặc niêm mạc khu vực sinh dục. Để điều trị bệnh sùi mào gà, bạn có thể sử dụng những cách như thuốc uống hoặc thuốc bôi ngoài da, làm sạch vết thương và gỡ bỏ bằng laser hoặc phẫu thuật. Tuy nhiên, việc điều trị chính xác cần phải dựa trên tình trạng và khuyến cáo của bác sĩ.
+
+Tôi muốn tìm hiểu về bệnh AIDS
+Chào bạn, tôi sẽ cố gắng giúp bạn. Bệnh AIDS là một bệnh lây truyền qua đường tình dục do virus HIV gây ra. Bệnh này ảnh hưởng đến hệ miễn dịch của cơ thể, làm cho cơ thể mất khả năng chống lại các bệnh truyền nhiễm và ung thư. Triệu chứng của bệnh AIDS bao gồm giảm cân, sốt, mất tỉnh táo, nhiễm trùng và các vết phát ban trên da.
+Bệnh AIDS là bệnh gì
+Bệnh AIDS là một bệnh lây truyền qua đường tình dục do virus HIV gây ra. Bệnh này ảnh hưởng đến hệ miễn dịch của cơ thể, làm cho cơ thể mất khả năng chống lại các bệnh truyền nhiễm và ung thư. Triệu chứng của bệnh AIDS bao gồm giảm cân, sốt, mất tỉnh táo, nhiễm trùng và các vết phát ban trên da.
+Tôi lo lắng vì tôi đã có quan hệ tình dục không an toàn và sợ rằng mình có thể nhiễm virus HIV. Có cách nào để xác định nhanh chóng nếu tôi bị nhiễm virus này không?
+Để xác định nhanh chóng bạn có nhiễm virus HIV hay không, bạn cần làm xét nghiệm máu. Dù vậy, thời gian cho đến khi virus HIV xuất hiện trong máu có thể kéo dài đến 3 tháng sau khi hoạt động tình dục không an toàn. Nếu bạn lo lắng về nhiễm HIV, tôi khuyên bạn nên đến cơ sở y tế gần nhất để đăng ký kiểm tra và tư vấn. Việc nhận được sự hỗ trợ và điều trị sớm sẽ giúp giảm rủi ro cho sức khỏe của bạn.
+Bệnh HIV/AIDS là bệnh gì
+Bệnh HIV/AIDS là bệnh lây truyền qua đường tình dục, do virus Human Immunodeficiency Virus (HIV) gây ra. HIV tấn công các tế bào miễn dịch của cơ thể, gây suy giảm chức năng miễn dịch và làm cho cơ thể mất khả năng chống lại các bệnh truyền nhiễm và ung thư. Bệnh này có thể được lan truyền khi quan hệ tình dục không an toàn, sử dụng chung kim tiêm, hoặc từ mẹ sang con trong quá trình sinh.
+Triệu chứng của bệnh HIV/AIDS 
+Triệu chứng của bệnh HIV/AIDS bao gồm giảm cân, sốt, mất tỉnh táo, nhiễm trùng và các vết phát ban trên da. Hiện tại, bệnh HIV/AIDS không có thuốc chữa trị hoàn toàn và phương tiện điều trị chính là các loại thuốc ức chế virus HIV để kiểm soát tình trạng của bệnh nhân. Bệnh HIV/AIDS có thể được phòng ngừa bằng cách sử dụng bảo vệ khi quan hệ tình dục, sử dụng kim tiêm riêng và kiểm tra sức khỏe định kỳ.
+Cách chữa bệnh HIV/AIDS
+Hiện tại, bệnh HIV/AIDS không có thuốc chữa trị hoàn toàn. Tuy nhiên, phương pháp điều trị chính là sử dụng các loại thuốc ức chế virus HIV để kiểm soát tình trạng của bệnh nhân. Các thuốc ức chế virus HIV được sử dụng trong việc ngăn chặn vi rút HIV phát triển trong cơ thể, làm giảm lượng virus HIV có trong máu và điều khiển hệ thống miễn dịch của cơ thể. Tuy nhiên, việc sử dụng thuốc này cần được tuân thủ đúng theo quy trình và đầy đủ để đạt hiệu quả tối đa. Ngoài ra, bệnh nhân cần thực hiện các biện pháp phòng ngừa vi rút HIV như sử dụng bảo vệ khi quan hệ tình dục, sử dụng kim tiêm riêng và kiểm tra sức khỏe định kỳ. Bên cạnh đó, điều trị các bệnh lý liên quan như các nhiễm trùng, ung thư và bệnh tim mạch cũng rất quan trọng trong việc kiểm soát và điều trị bệnh HIV/AIDS.
+
+Tôi cảm thấy ngứa và đau khi đi tiểu, và có một số vết phát ban xảy ra ở vùng kín.
+Triệu chứng bạn đang mắc phải có thể liên quan đến bệnh lây truyền qua đường tình dục có tên là bệnh lậu. Tôi khuyên bạn nên đi khám bác sĩ sớm để được chẩn đoán và điều trị.
+Tôi đang gặp phải nhiều triệu chứng như khó chịu, mềm cổ họng, đau đầu, mệt mỏi và đau nhức toàn thân. Tôi không chắc chắn đó có phải là triệu chứng của bệnh lây truyền qua đường tình dục hay không.
+Những triệu chứng mà bạn mô tả có thể liên quan đến bệnh lậu hoặc bệnh chlamydia. Tôi đề nghị bạn đi khám bác sĩ để được chẩn đoán và nhận được đầy đủ tư vấn về cách điều trị.
+Tôi bị đau âm đạo, có các triệu chứng như ngứa, chảy dịch và khó chịu trong và sau quan hệ tình dục. Đó có thể là dấu hiệu của bệnh gì?
+Các triệu chứng mà bạn đang mô tả khá khả nghi về bệnh lậu hoặc bệnh nhiễm trùng âm đạo. Tôi khuyên bạn nên đi khám bác sĩ sớm để được chẩn đoán và điều trị đúng cách.
+Tôi bị một số triệu chứng như nổi mụn, phát ban và đau dữ dội quanh vùng đường sinh dục.
+Những triệu chứng mà bạn mô tả có thể liên quan đến bệnh lậu hoặc bệnh syphilis. Tôi khuyên bạn nên đi khám bác sĩ để được chẩn đoán và điều trị đúng cách.
+Tôi bị một số triệu chứng như nổi mụn, phát ban và đau dữ dội quanh vùng đường sinh dục. Tôi không chắc chắn đó có liên quan đến bệnh tình dục hay không.
+Những triệu chứng mà bạn mô tả có thể liên quan đến bệnh lậu hoặc bệnh syphilis. Tôi khuyên bạn nên đi khám bác sĩ để được chẩn đoán và điều trị đúng cách.
+Tôi cảm thấy đau, ngứa và có một số phát ban trên da, nhất là ở khu vực sinh dục.
+Những triệu chứng mà bạn đang mô tả khá khả nghi về bệnh gonorhea hoặc herpes. Tôi đề nghị bạn đi khám bác sĩ để được kiểm tra và chẩn đoán đúng.
+Tôi cảm thấy đau, ngứa và có một số phát ban trên da, nhất là ở khu vực sinh dục. Tôi không chắc rằng đó có phải là triệu chứng của một bệnh tình dục hay không.
+Những triệu chứng mà bạn đang mô tả khá khả nghi về bệnh gonorhea hoặc herpes. Tôi đề nghị bạn đi khám bác sĩ để được kiểm tra và chẩn đoán đúng.
+Mấy ngày gần đây tôi thấy đau bụng và có các triệu chứng như tiêu chảy, buồn nôn và mệt mỏi.
+Triệu chứng của bạn có thể liên quan đến bệnh lậu hoặc một số bệnh lây truyền qua đường tình dục khác. Tôi khuyên bạn nên đi khám bác sĩ để được chẩn đoán chính xác và nhận được điều trị kịp thời. Đồng thời, bạn cũng cần chú ý đến các biện pháp phòng ngừa như sử dụng bảo vệ khi quan hệ tình dục, sử dụng kim tiêm riêng, và kiểm tra sức khỏe định kỳ.
+Mấy ngày gần đây tôi thấy đau bụng và có các triệu chứng như tiêu chảy, buồn nôn và mệt mỏi. Tôi nghĩ đây có thể liên quan đến bệnh lây truyền qua đường tình dục. Bạn có thể giúp tôi đưa ra một số lời khuyên không?
+Triệu chứng của bạn có thể liên quan đến bệnh lậu hoặc một số bệnh lây truyền qua đường tình dục khác. Tôi khuyên bạn nên đi khám bác sĩ để được chẩn đoán chính xác và nhận được điều trị kịp thời. Đồng thời, bạn cũng cần chú ý đến các biện pháp phòng ngừa như sử dụng bảo vệ khi quan hệ tình dục, sử dụng kim tiêm riêng, và kiểm tra sức khỏe định kỳ.
+Tôi đã thấy một số dấu hiệu như viêm và đau ở vùng kín. Tôi không chắc rằng đó có phải là triệu chứng của bệnh tình dục hay không.
+Những triệu chứng mà bạn mô tả có thể liên quan đến bệnh lậu, bệnh chlamydia hoặc bệnh nguyên sinh khuẩn. Tôi khuyên bạn nên đi khám bác sĩ để được chẩn đoán và điều trị đúng cách.
