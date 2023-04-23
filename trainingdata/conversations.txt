@@ -1,13 +1,28 @@
-HealthProphet có thể trả lời được được những thông tin nào?
+HealthProphet có thể trả lời được những thông tin nào?
 HealthProphet là một chatbot AI về các bệnh lây nhiễm qua đường tình dục, tôi có thể giúp bạn tra cứu các thông tin về bệnh như nguyên nhân gây bệnh, triệu chứng, phương pháp phòng tránh và điều trị. <br> Đừng ngần ngại đặt câu hỏi cho tôi nhé, tôi sẽ giúp bạn giải đáp các thắc mắc.
+Tôi muốn biết các triệu chứng của bệnh sùi mào gà.
+Triệu chứng của bệnh bao gồm những vết phồng rộp trên da và niêm mạc, có thể gây ngứa hoặc đau. Những vết phồng này sau đó sẽ biến thành sần và có thể trồi lên như một mụn nhỏ.
+
 Tôi muốn hỏi các triệu chứng về bệnh lậu.
 Bệnh lậu thường có các triệu chứng như đau khi đi tiểu, xuất hiện những vết thương ở vùng sinh dục, tiết dịch dày và màu trắng hoặc vàng.
-Cho tôi hỏi bệnh cam mềm (bệnh sole) là bệnh gì?
+Bị bệnh lậu thì nên làm gì?
+Nếu bạn nghi ngờ mình bị bệnh lậu, bạn nên đến bác sĩ ngay lập tức để được kiểm tra và điều trị. Nếu bị bệnh lậu và không được điều trị, bạn có thể gặp những vấn đề sức khỏe nghiêm trọng hơn như liệt dương hoặc vô sinh.
+
+Cho tôi hỏi bệnh hạ cam mềm (bệnh sole) là bệnh gì?
 Bệnh hạ cam mềm (hay còn gọi là bệnh sole) là một bệnh nhiễm trùng do vi khuẩn Neisseria gonorrhoeae gây ra. Bệnh này có thể ảnh hưởng đến khu vực sinh dục, họng, mắt và hậu môn.
 Triệu chứng bệnh hạ cam mềm là gì?
 Ở nam giới sẽ có các triệu chứng như: Đau khi đi tiểu, tiết chất nhờn trắng từ đầu dương vật, viêm cầu toàn khối, sưng tấy quanh dương vật, đau tinh hoàn và sốt. <br>Còn ở nữ giới: Đau khi đi tiểu, tiết dịch âm đạo, chảy máu nữa chu kỳ kinh nguyệt, đau bụng thường xuyên và viêm bàng quang. <br>Khu vực miệng: Đau, sưng và phát ban ở họng. <br>Mắt: Sưng, đỏ và đau ở xung quanh mắt. <br>Hậu môn: Đau vàch trần hậu môn, khó chịu, áp lực hậu môn và chảy dịch từ hậu môn.
 Nguyên nhân gây ra bệnh hạ cam mềm?
 Bệnh hạ cam mềm do vi khuẩn Neisseria gonorrhoeae gây ra. Bệnh này chủ yếu lây qua đường tình dục, thông qua quan hệ tình dục không an toàn với người đã nhiễm bệnh. Ngoài ra, bệnh cũng có thể lây qua thai kỳ từ mẹ sang con khi sinh.
+
+Xin lỗi tôi không biết câu trả lời cho vấn đề bạn đang gặp phải 😥
+Tôi muốn biết các triệu chứng của bệnh sùi mào gà.
+
+Xin lỗi tôi không biết câu trả lời cho vấn đề bạn đang gặp phải 😥
+Tôi muốn hỏi các triệu chứng về bệnh lậu.
+
+Xin lỗi tôi không biết câu trả lời cho vấn đề bạn đang gặp phải 😥
+Viêm đường tiết niệu là gì? 
 
 Bệnh sùi mào gà là gì?
 Sùi mào gà là một trong những căn bệnh xã hội có mức độ lây nhiễm rất cao trong xã hội. Không những bệnh lây truyền qua đường tình dục mà còn có thể bị lây lan ở nhiều con đường khác. Đa phần bệnh nhân mắc bệnh sùi mào gà đều khó nhận biết ở giai đoạn đầu vì thời gian ủ bệnh là khá lâu, bất kì ai cũng có thể mắc phải sùi mào gà.
@@ -19,7 +34,7 @@ Cách ngăn ngừa sùi mào gà?
 Bạn nên sử dụng các biện pháp bảo vệ tình dục khi quan hệ, cũng như tránh tiếp xúc với người bị nhiễm bệnh. Nếu bạn nghi ngờ mình bị lây nhiễm, nên đến bác sĩ để được khám và điều trị.
 Các triệu chứng bệnh sùi mào gà
 Ngứa bộ phận sinh dục, nóng rát, chảy máu khi quan hệ, xuất hiện các nốt sần nhỏ màu đỏ, mềm, các nốt sần tụ lại thành khóm có hình dạng giống hoa lơ, mào gà. Nếu bạn thấy những triệu chứng này, bạn nên đến bác sĩ để được tư vấn và điều trị.
-Cảm ơn
+Cảm ơn bạn đã trả lời giúp tôi những thắc mắc.
 Không có gì, tôi luôn sẵn sàng giúp đỡ bạn với thông tin y tế. Hãy luôn quan tâm và chăm sóc sức khỏe của mình nhé!
 
 Viêm đường tiết niệu là gì? 
@@ -28,7 +43,7 @@ Nguyên nhân viêm đường tiết niệu
 Bạn có thể mắc bệnh này khi tiếp xúc với vi khuẩn qua đường tình dục hoặc tiếp xúc với đồ vật bị nhiễm vi khuẩn.
 Phòng ngừa bệnh viêm đường tiết niệu
 Bạn có thể phòng ngừa bệnh viêm đường tiết niệu bằng cách giữ vệ sinh chặt chẽ, sử dụng bảo vệ tình dục khi quan hệ, và uống đủ nước để tăng cường hoạt động thận và đường tiết niệu. Nếu bạn có triệu chứng như đau tiểu, nôn mửa hoặc sốt, bạn nên đến bác sĩ ngay để được chẩn đoán và điều trị kịp thời.
-Cảm ơn bạn
+Cảm ơn bạn đã giúp tôi trả lời.
 Không có gì, luôn sẵn sàng giúp đỡ bạn về thông tin về sức khỏe. Hãy luôn chăm sóc sức khỏe của mình nhé!
 
 Chào bạn, tôi có một số câu hỏi về bệnh lậu.
@@ -39,7 +54,7 @@ Triệu chứng bệnh lậu
 Triệu chứng của bệnh lậu thường bao gồm đau khi đi tiểu, xuất hiện những vết thương ở vùng sinh dục, tiết dịch dày và màu trắng hoặc vàng.
 Bị bệnh lậu thì nên làm gì?
 Nếu bạn nghi ngờ mình bị bệnh lậu, bạn nên đến bác sĩ ngay lập tức để được kiểm tra và điều trị. Nếu bị bệnh lậu và không được điều trị, bạn có thể gặp những vấn đề sức khỏe nghiêm trọng hơn như liệt dương hoặc vô sinh.
-Cảm ơn bạn
+Cảm ơn bạn đã trả lời giúp tôi.
 Không có gì, nếu bạn cần thêm thông tin hoặc câu hỏi nào khác, hãy đừng ngần ngại để hỏi tôi.
 
 Xin chào, tôi muốn hỏi về bệnh viêm tuyến tiền liệt?
@@ -50,7 +65,7 @@ Phòng ngừa và điều trị viêm tuyến tiền liệt
 Bạn có thể phòng ngừa bệnh viêm tuyến tiền liệt bằng cách giữ vệ sinh tốt, uống đủ nước trong ngày và tránh tình dục không an toàn. Nếu bạn đã mắc bệnh, bác sĩ sẽ đưa ra kế hoạch điều trị phù hợp, bao gồm các loại thuốc kháng viêm, thuốc kháng sinh hoặc đôi khi cần phải trải qua phẫu thuật để giải quyết vấn đề.
 Viêm tuyến tiền liệt nguy hiểm không?
 Bệnh viêm tuyến tiền liệt thường không nguy hiểm đến tính mạng, tuy nhiên nó có thể xảy ra một số biến chứng nếu không được điều trị đúng cách. Vì vậy, hãy đến bác sĩ ngay khi bạn thấy bất kỳ triệu chứng nào của bệnh.
-Cảm ơn bạn
+Cảm ơn bạn đã trả lời
 Không có gì, hy vọng thông tin này có ích cho bạn. Hãy luôn chăm sóc sức khỏe của mình.
 
 Xin chào Bot, tôi có một số câu hỏi về bệnh lậu.
@@ -78,7 +93,7 @@ Cần phải làm gì nếu mắc bệnh giang mai?
 Nếu bạn nghi ngờ mình mắc bệnh giang mai, hãy đến gặp bác sĩ ngay lập tức để được kiểm tra và chẩn đoán. Nếu không được chữa trị kịp thời, bệnh giang mai có thể gây ra các vấn đề sức khỏe nghiêm trọng và ảnh hưởng đến khả năng sinh sản của bạn.
 Chữa trị giang mai
 Bệnh giang mai có thể được chữa trị bằng kháng sinh. Bạn nên đến bác sĩ để được chẩn đoán và kê đơn thuốc chữa trị phù hợp. Hãy nhớ uống đầy đủ liều lượng thuốc và hoàn thành toàn bộ quá trình điều trị để đảm bảo rằng bệnh đã được loại bỏ hoàn toàn. Ngoài ra, bạn cũng nên ngừng quan hệ tình dục trong khi điều trị để tránh lây lan bệnh cho người khác.
-Cảm ơn bạn
+Cảm ơn bạn rất nhiều ạ
 Hãy luôn chăm sóc sức khỏe của mình và đến bác sĩ ngay khi cần thiết.
 
 Xin chào, tôi muốn tìm hiểu về bệnh nhiễm trùng do HIV.
@@ -95,7 +110,7 @@ Cần phải làm gì khi bị HIV
 Nếu bạn nghi ngờ mình mắc bệnh nhiễm trùng do HIV, bạn nên đến gặp bác sĩ để được xét nghiệm và chẩn đoán. Nếu bạn mắc bệnh, bác sĩ sẽ hướng dẫn bạn về các phương pháp điều trị và cách quản lý căn bệnh này. Bạn cũng nên giữ cho tinh thần tỉnh táo và tránh những hành động có nguy cơ lây nhiễm bệnh cho người khác.
 Chữa trị HIV
 Hiện tại, không có thuốc chữa trị HIV, nhưng các loại thuốc chống virus HIV có thể giúp kiểm soát sự phát triển của virus và ngăn ngừa sự lây lan của căn bệnh này trong cơ thể. Điều quan trọng là bạn phải thường xuyên điều trị và tuân thủ các chỉ định của bác sĩ để kiểm soát căn bệnh và giữ cho sức khỏe của mình được tốt nhất có thể.
-Cảm ơn bạn
+Cảm ơn bạn nha bot
 Không có gì. Hãy chăm sóc sức khỏe mình thật tốt và hãy luôn giữ cho mình một tinh thần lạc quan bạn nhé.
 
 Tôi có thể hỏi bạn về bệnh giang mai được không
@@ -104,7 +119,7 @@ Tôi muốn biết triệu chứng của bệnh giang mai
 Các triệu chứng thường gặp của bệnh giang mai là phát ban, đau họng, cảm giác khó chịu khi đi tiểu và các vết sưng đau ở vùng bẹn.
 Bệnh này có thể điều trị được không?
 Có thể, bệnh giang mai có thể điều trị hoàn toàn bằng kháng sinh. Tuy nhiên, nếu không được phát hiện sớm và điều trị kịp thời bệnh có thể gây ra những tổn thương nặng nề đến cơ thể. Bạn nên tìm kiếm sự giúp đỡ của bác sĩ để được chẩn đoán và điều trị.
-Cảm ơn bot 
+Cảm ơn bot HealthProphet nha.
 Không có gì, hy vọng những thông tin này sẽ hữu ích cho bạn.
 
 Tôi nghe nói bệnh giang mai có thể gây ra những hậu quả nặng nề đến sức khỏe có đúng không?
@@ -158,7 +173,7 @@ Các biến chứng của bệnh bao gồm những vết thương khuẩn, dị 
 Tôi lo lắng vì đã quan hệ tình dục không an toàn và tôi nghĩ mình có thể đã nhiễm bệnh sùi mào gà
 Bạn nên đến trung tâm y tế gần nhất để được khám và xét nghiệm. Những triệu chwungs của bệnh sùi mào gà bao gồm các vết phồng rộp xuất hiện trên da, đau và ngứa sẽ là những triệu chứng tiên lượng. Nếu bạn nghi ngờ mình bị nhiễm bệnh, hãy đến nơi chuyên môn có trang thiết bị hiện đại để sớm điều trị và ngăn ngừa các biến chwungs có thể xảy ra sau này.
 
-Tôi muốn tìm hiệu về bệnh HIV
+Tôi muốn tìm hiểu về bệnh HIV
 Chào bạn, tôi có thể giúp gì được cho bạn về bệnh HIV?
 Bệnh HIV là bệnh gì?
 HIV là virus gây ra bệnh AIDS, nó tấn công hệ miễn dịch của bạn. Bạn có thể lây nhiễm HIV qua các hoạt động như quan hệ tình dục, tiêm chích chung và chuyển máu.

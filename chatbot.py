@@ -27,10 +27,17 @@ def home():
     return render_template("index.html")
 
 #Nhận và reply tin nhắn
+chatbot_response = ""
 @app.route("/get")
 def get_bot_response():
     userText = request.args.get('msg')
-    return str(chatbot.get_response(userText))
+    chatbot_response = str(chatbot.get_response(userText))
+    return chatbot_response
+
+@app.route("/next")
+def get_bot_suggest():
+    beforeResponse = request.args.get('chatbot_response')
+    return str(chatbot.get_response(beforeResponse))
 
 #Run flask
 if __name__ == "__main__":

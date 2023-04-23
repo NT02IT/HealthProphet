@@ -255,6 +255,11 @@ section .content-wrapped{
     padding: 1rem 0;
 }
 
+.chat-area .app-suggest{
+    text-align: center;
+    margin: 0 3rem;
+}
+
 .avt-container{
     display: flex;
     flex-direction: column;
@@ -281,6 +286,41 @@ section .content-wrapped{
     border-radius: 0.5rem 1.5rem 1.5rem 0.5rem;
 }
 
+#suggest-question{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.3rem;
+    letter-spacing: 0px;
+    padding: 0.5rem 1rem;
+    margin: 0.5rem;
+    margin-bottom: 1rem;
+    color: var(--black-lighter);
+    text-align: left;
+    max-width: 20rem;
+    background-color: #f2f2f2;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+
+#suggest-question:hover{
+    color: var(--blue-light);
+    background-color: var(--white);
+    box-shadow: 0px 2px 12px 0px #51A3EE10;
+    border: 1px solid #51A3EE40;
+    border-radius: 0.5rem;
+}
+
+#suggest-title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.1rem;
+    text-align: left;
+    color: var(--black-lighter);
+    font-weight: 400;
+    line-height: 1.3rem;
+    letter-spacing: 0px;
+}
+
 .app-respone .hint{
     display: inline-block;
     text-align: center;
@@ -298,7 +338,8 @@ section .content-wrapped{
     padding: 0.8rem 1rem;
     margin: 2px 0;
     border-radius: 0.5rem;
-    border: 1px solid var(--blue-dark)
+    border: 1px solid var(--blue-dark);
+    cursor: pointer;
 }
 
 .app-respone button.message:hover{

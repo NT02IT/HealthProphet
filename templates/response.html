@@ -72,9 +72,9 @@
                         <img src="..\\static\\Assets\\Logo\\color_icon.svg" alt="">
                     </div>
                     <div class="chat-bubbles">
-                        <div class="hint">Nếu bạn gặp khó khăn trong việc đặt câu hỏi<br>Bạn cũng có thể chọn một câu hỏi có sẵn dưới đây để bắt đầu nhé! </div>
+                        <div class="hint">Nếu bạn gặp khó khăn trong việc đặt câu hỏi<br>Chọn một trong các câu hỏi có sẵn dưới đây để bắt đầu nhé! </div>
                         <div class="message">Hãy chọn vào câu hỏi bên dưới tôi sẽ trả lời giúp bạn những thắc mắc. </div>
-                        <button class="message" id="question1">HealthProphet có thể trả lời được được những thông tin nào?</button>
+                        <button class="message" id="question1">HealthProphet có thể trả lời được những thông tin nào?</button>
                         <button class="message" id="question2">Tôi muốn hỏi về các triệu chứng của bệnh lậu.</button>
                         <button class="message" id="question3">Cho tôi hỏi bệnh hạ cam mềm (bệnh sole) là bệnh gì?</button>
                     </div>
@@ -102,6 +102,15 @@
                         var botHtml = '<div class="app-respone"><div class="avt-container"><div></div><img src="..\\static\\Assets\\Logo\\color_icon.svg" alt=""></div><div class="chat-bubbles"><div class="message">' + data + '</div></div>';
                         $("#chatbox").append(botHtml);
                         document.getElementById('userInput').scrollIntoView({ block: 'start', behavior: 'smooth' });
+
+                        // Hiện tin nhắn gợi ý của chatbot
+                        $.get("/next", { chatbot_response: data}).done(function (nextdata) {
+                            if (nextdata !== "Xin lỗi tôi không biết câu trả lời cho vấn đề bạn đang gặp phải 😥") {
+                                var botHtml = '<div class="app-suggest"><div class="chat-bubbles"><div id="suggest-title">🤗 Có thể bạn muốn hỏi 🤗<br><div id="suggest-question">' + nextdata + '</div></div></div>';
+                                $("#chatbox").append(botHtml);
+                                document.getElementById('userInput').scrollIntoView({ block: 'start', behavior: 'smooth' });
+                            }
+                        });
                     });
                 }
                 
@@ -118,7 +127,7 @@
                 }) 
 
                 question1.addEventListener('click', function () {
-                    getBotResponse("HealthProphet có thể trả lời được được những thông tin nào?");
+                    getBotResponse("HealthProphet có thể trả lời được những thông tin nào?");
                 });  
                 question2.addEventListener('click', function () {
                     getBotResponse("Tôi muốn hỏi về các triệu chứng bệnh lậu");
@@ -150,7 +159,7 @@
     const chatBox = document.getElementById('chatbox');
     const userInput = document.getElementById('userInput');
     const bottomBtn = document.getElementById('bottom-btn');
-    const emptyState = document.getElementById('emptyState');
+    const emptyState = document.getElementById('emptyState'); 
 
     btnPrimary.addEventListener('click', function () {
             chatBox.style.display = 'block';
