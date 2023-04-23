@@ -116,9 +116,7 @@
                   //getBotResponse();
                   getBotResponse(textInput.value);
                 }) 
-                // $("button.message").click(function() {
-                //   getBotResponse();
-                // }) 
+
                 question1.addEventListener('click', function () {
                     getBotResponse("HealthProphet có thể trả lời được được những thông tin nào?");
                 });  
@@ -128,17 +126,14 @@
                 question3.addEventListener('click', function () {
                     getBotResponse("Cho tôi hỏi bệnh hạ cam mềm (bệnh sole) là bệnh gì?");
                 }); 
-                // userInput.addEventListener("input", function() {
-                //     getBotResponse(userInput.value);
-                // }); 
 
-                // const focusEndofChat = document.getElementById('chatbox');
-                // const lastMessage = messageList.lastElementChild;
-                // lastMessage.scrollIntoView();
-                // messageList.addEventListener('DOMNodeInserted', function () {
-                //         const lastMessage = messageList.lastElementChild;
-                //         lastMessage.scrollIntoView();
-                //     });
+                const focusEndofChat = document.getElementById('chatbox');
+                const lastMessage = focusEndofChat.lastElementChild;
+                lastMessage.scrollIntoView();
+                focusEndofChat.addEventListener('DOMNodeInserted', function () {
+                        const lastMessage = focusEndofChat.lastElementChild;
+                        lastMessage.scrollIntoView();
+                    });
             </script>
         </div>
     </section>

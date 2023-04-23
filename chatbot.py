@@ -10,7 +10,7 @@ chatbot = ChatBot(
     logic_adapters=[
         {
             'import_path': 'chatterbot.logic.BestMatch',
-            'default_response': 'Xin lỗi tôi không biết câu trả lời cho vấn đề bạn đang gặp phải T_T',
+            'default_response': 'Xin lỗi tôi không biết câu trả lời cho vấn đề bạn đang gặp phải 😥',
             'maximum_similarity_threshold': 0.75
         }
     ]
